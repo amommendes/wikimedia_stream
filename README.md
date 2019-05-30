@@ -16,6 +16,9 @@ Diagram:
 
 ![Task2](./doc/assets/img/task2.png)
 
-
 ### Task 3: Persist data
 
+### Task 4: DataViz
+
+
+## Running Application
