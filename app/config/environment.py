@@ -9,7 +9,6 @@ class Configuration:
     def __init__(self, topic="WIKIMEDIA"):
         try:
             filePath = os.path.dirname(__file__) + '/app_config.yml'
-            log.info('Loading configuration file in the path: %s' % filePath)
             with open(filePath) as cfg:
                 config = load(cfg)
             list(map(lambda conf: self.__dict__.update(config.get(conf)), [topic]))

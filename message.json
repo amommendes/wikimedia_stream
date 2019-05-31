@@ -1,0 +1,1505 @@
+{
+    "bot": false,
+    "comment": "Adding history",
+    "id": 1158444317,
+    "length": {
+        "new": 4011,
+        "old": 2083
+    },
+    "meta": {
+        "domain": "en.wikipedia.org",
+        "dt": "2019-05-30T02:24:57+00:00",
+        "id": "1ddea98b-8282-11e9-a5b6-1866da992497",
+        "request_id": "XO8@@QpAIDEAAKREEDkAAAAA",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://en.wikipedia.org/wiki/Takiroa_Rock_Art_Shelter",
+        "partition": 0,
+        "offset": 1624627858
+    },
+    "minor": false,
+    "namespace": 0,
+    "parsedcomment": "Adding history",
+    "revision": {
+        "new": 899441840,
+        "old": 899432956
+    },
+    "server_name": "en.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://en.wikipedia.org",
+    "timestamp": 1559183097,
+    "title": "Takiroa Rock Art Shelter",
+    "type": "edit",
+    "user": "Air55",
+    "wiki": "enwiki"
+},{
+    "bot": false,
+    "comment": "[[:\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc\u0627:\u0646\u0638\u0631\u062e\u0648\u0627\u0647\u06cc \u0628\u0631\u0627\u06cc \u062d\u0630\u0641/\u0637\u0631\u06cc\u0642\u062a \u0642\u0627\u062f\u0631\u06cc\u0647 \u0637\u0627\u0644\u0628\u0627\u0646\u06cc]] \u0628\u0647 \u0631\u062f\u0647 \u0627\u0636\u0627\u0641\u0647 \u0634\u062f",
+    "id": 55010085,
+    "meta": {
+        "domain": "fa.wikipedia.org",
+        "dt": "2019-05-30T02:25:37+00:00",
+        "id": "364ec3c7-8282-11e9-af6e-141877613409",
+        "request_id": "XO8-IApAAEcAAFnQsfQAAAAR",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://fa.wikipedia.org/wiki/%D8%B1%D8%AF%D9%87:%D8%A8%D8%AD%D8%AB%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%86%D8%A8%D8%AD_(%D8%B7%D8%A8%D9%82%D9%87%E2%80%8C%D8%A8%D9%86%D8%AF%DB%8C_%D9%86%D8%B4%D8%AF%D9%87)",
+        "partition": 0,
+        "offset": 1624628456
+    },
+    "namespace": 14,
+    "parsedcomment": "<a href=\"/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D9%86%D8%B8%D8%B1%D8%AE%D9%88%D8%A7%D9%87%DB%8C_%D8%A8%D8%B1%D8%A7%DB%8C_%D8%AD%D8%B0%D9%81/%D8%B7%D8%B1%DB%8C%D9%82%D8%AA_%D9%82%D8%A7%D8%AF%D8%B1%DB%8C%D9%87_%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D9%86%DB%8C\" title=\"\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc\u0627:\u0646\u0638\u0631\u062e\u0648\u0627\u0647\u06cc \u0628\u0631\u0627\u06cc \u062d\u0630\u0641/\u0637\u0631\u06cc\u0642\u062a \u0642\u0627\u062f\u0631\u06cc\u0647 \u0637\u0627\u0644\u0628\u0627\u0646\u06cc\">\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc\u0627:\u0646\u0638\u0631\u062e\u0648\u0627\u0647\u06cc \u0628\u0631\u0627\u06cc \u062d\u0630\u0641/\u0637\u0631\u06cc\u0642\u062a \u0642\u0627\u062f\u0631\u06cc\u0647 \u0637\u0627\u0644\u0628\u0627\u0646\u06cc</a> \u0628\u0647 \u0631\u062f\u0647 \u0627\u0636\u0627\u0641\u0647 \u0634\u062f",
+    "server_name": "fa.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://fa.wikipedia.org",
+    "timestamp": 1559183137,
+    "title": "\u0631\u062f\u0647:\u0628\u062d\u062b\u200c\u0647\u0627\u06cc \u0646\u0628\u062d (\u0637\u0628\u0642\u0647\u200c\u0628\u0646\u062f\u06cc \u0646\u0634\u062f\u0647)",
+    "type": "categorize",
+    "user": "\u062e\u0627\u0686\u06cc",
+    "wiki": "fawiki"
+},{
+    "bot": false,
+    "comment": "[[:\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc\u0627:\u0646\u0638\u0631\u062e\u0648\u0627\u0647\u06cc \u0628\u0631\u0627\u06cc \u062d\u0630\u0641/\u0637\u0631\u06cc\u0642\u062a \u0642\u0627\u062f\u0631\u06cc\u0647 \u0637\u0627\u0644\u0628\u0627\u0646\u06cc]] \u0628\u0647 \u0631\u062f\u0647 \u0627\u0636\u0627\u0641\u0647 \u0634\u062f",
+    "id": 55010087,
+    "meta": {
+        "domain": "fa.wikipedia.org",
+        "dt": "2019-05-30T02:25:37+00:00",
+        "id": "364ec3c8-8282-11e9-af6e-141877613409",
+        "request_id": "XO8-IApAAEcAAFnQsfQAAAAR",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://fa.wikipedia.org/wiki/%D8%B1%D8%AF%D9%87:%D8%A8%D8%AD%D8%AB%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%86%D8%A8%D8%AD",
+        "partition": 0,
+        "offset": 1624628457
+    },
+    "namespace": 14,
+    "parsedcomment": "<a href=\"/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D9%86%D8%B8%D8%B1%D8%AE%D9%88%D8%A7%D9%87%DB%8C_%D8%A8%D8%B1%D8%A7%DB%8C_%D8%AD%D8%B0%D9%81/%D8%B7%D8%B1%DB%8C%D9%82%D8%AA_%D9%82%D8%A7%D8%AF%D8%B1%DB%8C%D9%87_%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D9%86%DB%8C\" title=\"\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc\u0627:\u0646\u0638\u0631\u062e\u0648\u0627\u0647\u06cc \u0628\u0631\u0627\u06cc \u062d\u0630\u0641/\u0637\u0631\u06cc\u0642\u062a \u0642\u0627\u062f\u0631\u06cc\u0647 \u0637\u0627\u0644\u0628\u0627\u0646\u06cc\">\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc\u0627:\u0646\u0638\u0631\u062e\u0648\u0627\u0647\u06cc \u0628\u0631\u0627\u06cc \u062d\u0630\u0641/\u0637\u0631\u06cc\u0642\u062a \u0642\u0627\u062f\u0631\u06cc\u0647 \u0637\u0627\u0644\u0628\u0627\u0646\u06cc</a> \u0628\u0647 \u0631\u062f\u0647 \u0627\u0636\u0627\u0641\u0647 \u0634\u062f",
+    "server_name": "fa.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://fa.wikipedia.org",
+    "timestamp": 1559183137,
+    "title": "\u0631\u062f\u0647:\u0628\u062d\u062b\u200c\u0647\u0627\u06cc \u0646\u0628\u062d",
+    "type": "categorize",
+    "user": "\u062e\u0627\u0686\u06cc",
+    "wiki": "fawiki"
+},{
+    "bot": false,
+    "comment": "\u0627\u0637\u0644\u0627\u0639\u200c\u0631\u0633\u0627\u0646\u06cc: \u0641\u0647\u0631\u0633\u062a \u06a9\u0631\u062f\u0646 \u062f\u0631 \u0646\u0638\u0631\u062e\u0648\u0627\u0647\u06cc \u0628\u0631\u0627\u06cc \u062d\u0630\u0641 [[\u0637\u0631\u06cc\u0642\u062a \u0642\u0627\u062f\u0631\u06cc\u0647 \u0637\u0627\u0644\u0628\u0627\u0646\u06cc]]. ([[\u0648\u067e:\u062a\u0648\u06cc\u0646\u06a9\u0644|\u062a\u0648\u06cc\u0646\u06a9\u0644]])",
+    "id": 55010086,
+    "length": {
+        "new": 9432,
+        "old": 7877
+    },
+    "meta": {
+        "domain": "fa.wikipedia.org",
+        "dt": "2019-05-30T02:25:37+00:00",
+        "id": "364ecfa4-8282-11e9-8c1d-141877614a6f",
+        "request_id": "XO8-IQpAEDIAAD55XsQAAABS",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://fa.wikipedia.org/wiki/%D8%A8%D8%AD%D8%AB_%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1:%D9%85%D9%84%D8%A7_%D9%85%D8%AD%D9%85%D8%AF_%D9%85%D8%B1%D8%AF%D9%88%D8%AE%DB%8C",
+        "partition": 0,
+        "offset": 1624628458
+    },
+    "minor": false,
+    "namespace": 3,
+    "parsedcomment": "\u0627\u0637\u0644\u0627\u0639\u200c\u0631\u0633\u0627\u0646\u06cc: \u0641\u0647\u0631\u0633\u062a \u06a9\u0631\u062f\u0646 \u062f\u0631 \u0646\u0638\u0631\u062e\u0648\u0627\u0647\u06cc \u0628\u0631\u0627\u06cc \u062d\u0630\u0641 <a href=\"/wiki/%D8%B7%D8%B1%DB%8C%D9%82%D8%AA_%D9%82%D8%A7%D8%AF%D8%B1%DB%8C%D9%87_%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D9%86%DB%8C\" title=\"\u0637\u0631\u06cc\u0642\u062a \u0642\u0627\u062f\u0631\u06cc\u0647 \u0637\u0627\u0644\u0628\u0627\u0646\u06cc\">\u0637\u0631\u06cc\u0642\u062a \u0642\u0627\u062f\u0631\u06cc\u0647 \u0637\u0627\u0644\u0628\u0627\u0646\u06cc</a>. (<a href=\"/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D8%AA%D9%88%DB%8C%D9%86%DA%A9%D9%84\" title=\"\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc\u0627:\u062a\u0648\u06cc\u0646\u06a9\u0644\">\u062a\u0648\u06cc\u0646\u06a9\u0644</a>)",
+    "patrolled": true,
+    "revision": {
+        "new": 26316253,
+        "old": 26152487
+    },
+    "server_name": "fa.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://fa.wikipedia.org",
+    "timestamp": 1559183137,
+    "title": "\u0628\u062d\u062b \u06a9\u0627\u0631\u0628\u0631:\u0645\u0644\u0627 \u0645\u062d\u0645\u062f \u0645\u0631\u062f\u0648\u062e\u06cc",
+    "type": "edit",
+    "user": "\u062e\u0627\u0686\u06cc",
+    "wiki": "fawiki"
+},{
+    "bot": false,
+    "comment": "/* wbsetdescription-add:1|id */ protein, #quickstatements; tambah deskripsi (id); [[:toollabs:quickstatements/#/batch/13307|batch #13307]] by [[User:Rachmat04|]]",
+    "id": 988663898,
+    "length": {
+        "new": 75697,
+        "old": 75632
+    },
+    "meta": {
+        "domain": "www.wikidata.org",
+        "dt": "2019-05-30T02:25:37Z",
+        "id": "364ec466-8282-11e9-a8b8-141877614a33",
+        "request_id": "XO8-IApAEDYAAIWeoQEAAACJ",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://www.wikidata.org/wiki/Q24120963",
+        "partition": 0,
+        "offset": 1624628459
+    },
+    "minor": false,
+    "namespace": 0,
+    "parsedcomment": "\u200e<span dir=\"auto\"><span class=\"autocomment\">Added [id] description: </span></span> protein, #quickstatements; tambah deskripsi (id); <a href=\"https://tools.wmflabs.org/quickstatements/#.2Fbatch.2F13307\" class=\"extiw\" title=\"toollabs:quickstatements/\">batch #13307</a> by <a href=\"/wiki/User:Rachmat04\" title=\"User:Rachmat04\">User:Rachmat04</a>",
+    "patrolled": true,
+    "revision": {
+        "new": 951786357,
+        "old": 867163192
+    },
+    "server_name": "www.wikidata.org",
+    "server_script_path": "/w",
+    "server_url": "https://www.wikidata.org",
+    "timestamp": 1559183137,
+    "title": "Q24120963",
+    "type": "edit",
+    "user": "Rachmat04",
+    "wiki": "wikidatawiki"
+},{
+    "bot": false,
+    "comment": "Logging speedy deletion nomination of [[:Category:Dragonlance portal]]. ([[WP:TW|TW]])",
+    "id": 1158444426,
+    "length": {
+        "new": 318634,
+        "old": 318531
+    },
+    "meta": {
+        "domain": "en.wikipedia.org",
+        "dt": "2019-05-30T02:25:26+00:00",
+        "id": "364ebfbe-8282-11e9-95a8-1418776136da",
+        "request_id": "XO8-FgpAAEwAACmNujsAAABS",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://en.wikipedia.org/wiki/User:Liz/CSD_log",
+        "partition": 0,
+        "offset": 1624628461
+    },
+    "minor": false,
+    "namespace": 2,
+    "parsedcomment": "Logging speedy deletion nomination of <a href=\"/wiki/Category:Dragonlance_portal\" title=\"Category:Dragonlance portal\">Category:Dragonlance portal</a>. (<a href=\"/wiki/Wikipedia:TW\" class=\"mw-redirect\" title=\"Wikipedia:TW\">TW</a>)",
+    "revision": {
+        "new": 899441905,
+        "old": 899438973
+    },
+    "server_name": "en.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://en.wikipedia.org",
+    "timestamp": 1559183126,
+    "title": "User:Liz/CSD log",
+    "type": "edit",
+    "user": "Liz",
+    "wiki": "enwiki"
+},{
+    "bot": false,
+    "comment": "Vicu\u00f1aUploader 1.23",
+    "id": 1225246953,
+    "log_action": "upload",
+    "log_action_comment": "uploaded &quot;[[File:2019-05-25 Budapest Cup age group III all-around competition warm-up horizontal bar (Martin Rulsch) 141.jpg]]&quot;: Vicu\u00f1aUploader 1.23",
+    "log_id": 281905143,
+    "log_params": {
+        "img_sha1": "qeeqk8ry88mzj4nmcrclnr9bvpgh9g2",
+        "img_timestamp": "20190530022536"
+    },
+    "log_type": "upload",
+    "meta": {
+        "domain": "commons.wikimedia.org",
+        "dt": "2019-05-30T02:25:36Z",
+        "id": "364ebd9f-8282-11e9-8d34-1866da97f613",
+        "request_id": "XO8-HQpAIDgAAFhYMScAAADX",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://commons.wikimedia.org/wiki/File:2019-05-25_Budapest_Cup_age_group_III_all-around_competition_warm-up_horizontal_bar_(Martin_Rulsch)_141.jpg",
+        "partition": 0,
+        "offset": 1624628462
+    },
+    "namespace": 6,
+    "parsedcomment": "Vicu\u00f1aUploader 1.23",
+    "server_name": "commons.wikimedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://commons.wikimedia.org",
+    "timestamp": 1559183136,
+    "title": "File:2019-05-25 Budapest Cup age group III all-around competition warm-up horizontal bar (Martin Rulsch) 141.jpg",
+    "type": "log",
+    "user": "DerHexer",
+    "wiki": "commonswiki"
+},{
+    "bot": false,
+    "comment": "/* wbsetqualifier-add:1| */ [[Property:P1932]]: T. Ferguson, #quickstatements; [[:toollabs:quickstatements/#/batch/13286|batch #13286]] by [[User:ArthurPSmith|]]",
+    "id": 988663900,
+    "length": {
+        "new": 1446906,
+        "old": 1446672
+    },
+    "meta": {
+        "domain": "www.wikidata.org",
+        "dt": "2019-05-30T02:25:30Z",
+        "id": "364ec49f-8282-11e9-b38a-141877614a81",
+        "request_id": "XO8-EgpAAEkAAFY-XvgAAABQ",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://www.wikidata.org/wiki/Q56742402",
+        "partition": 0,
+        "offset": 1624628463
+    },
+    "minor": false,
+    "namespace": 0,
+    "parsedcomment": "\u200e<span dir=\"auto\"><span class=\"autocomment\">Added qualifier: </span></span> <a href=\"/wiki/Property:P1932\" title=\"Property:P1932\">Property:P1932</a>: T. Ferguson, #quickstatements; <a href=\"https://tools.wmflabs.org/quickstatements/#.2Fbatch.2F13286\" class=\"extiw\" title=\"toollabs:quickstatements/\">batch #13286</a> by <a href=\"/wiki/User:ArthurPSmith\" title=\"User:ArthurPSmith\">User:ArthurPSmith</a>",
+    "patrolled": true,
+    "revision": {
+        "new": 951786352,
+        "old": 951786194
+    },
+    "server_name": "www.wikidata.org",
+    "server_script_path": "/w",
+    "server_url": "https://www.wikidata.org",
+    "timestamp": 1559183130,
+    "title": "Q56742402",
+    "type": "edit",
+    "user": "ArthurPSmith",
+    "wiki": "wikidatawiki"
+},{
+    "bot": false,
+    "comment": "",
+    "id": 1158444427,
+    "length": {
+        "new": 10750,
+        "old": 10699
+    },
+    "meta": {
+        "domain": "en.wikipedia.org",
+        "dt": "2019-05-30T02:25:37+00:00",
+        "id": "364ec252-8282-11e9-abd8-14187761481f",
+        "request_id": "XO8-IQpAAD4AAFgTgQ0AAABK",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://en.wikipedia.org/wiki/Jilotepec_de_Abasolo",
+        "partition": 0,
+        "offset": 1624628464
+    },
+    "minor": false,
+    "namespace": 0,
+    "parsedcomment": "",
+    "revision": {
+        "new": 899441904,
+        "old": 899423648
+    },
+    "server_name": "en.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://en.wikipedia.org",
+    "timestamp": 1559183137,
+    "title": "Jilotepec de Abasolo",
+    "type": "edit",
+    "user": "Dkallen78",
+    "wiki": "enwiki"
+},{
+    "bot": false,
+    "comment": "/* Alumnos y catedr\u00e1ticos */",
+    "id": 201938936,
+    "length": {
+        "new": 26370,
+        "old": 26278
+    },
+    "meta": {
+        "domain": "es.wikipedia.org",
+        "dt": "2019-05-30T02:25:38+00:00",
+        "id": "364ec668-8282-11e9-a0a4-141877613c1b",
+        "request_id": "XO8-IgpAADsAAJJC0j8AAABE",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://es.wikipedia.org/wiki/Facultad_de_Ciencias_Econ%C3%B3micas_(Universidad_Nacional_Mayor_de_San_Marcos)",
+        "partition": 0,
+        "offset": 1624628466
+    },
+    "minor": false,
+    "namespace": 0,
+    "parsedcomment": "<span dir=\"auto\"><span class=\"autocomment\"><a href=\"/wiki/Facultad_de_Ciencias_Econ%C3%B3micas_(Universidad_Nacional_Mayor_de_San_Marcos)#Alumnos_y_catedr\u00e1ticos\" title=\"Facultad de Ciencias Econ\u00f3micas (Universidad Nacional Mayor de San Marcos)\">\u2192\u200eAlumnos y catedr\u00e1ticos</a></span></span>",
+    "revision": {
+        "new": 116320088,
+        "old": 116319989
+    },
+    "server_name": "es.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://es.wikipedia.org",
+    "timestamp": 1559183138,
+    "title": "Facultad de Ciencias Econ\u00f3micas (Universidad Nacional Mayor de San Marcos)",
+    "type": "edit",
+    "user": "Marco Carrasco",
+    "wiki": "eswiki"
+},{
+    "bot": false,
+    "comment": "/* wbsetdescription-add:1|ace */ prot\u00e8in, #quickstatements; tambah deskripsi (ace); [[:toollabs:quickstatements/#/batch/13308|batch #13308]] by [[User:Rachmat04|]]",
+    "id": 988663902,
+    "length": {
+        "new": 32294,
+        "old": 32226
+    },
+    "meta": {
+        "domain": "www.wikidata.org",
+        "dt": "2019-05-30T02:25:38Z",
+        "id": "364ec3e7-8282-11e9-be5c-1866da9950fa",
+        "request_id": "XO8-IQpAIDQAAIUvxXMAAAAA",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://www.wikidata.org/wiki/Q24124659",
+        "partition": 0,
+        "offset": 1624628469
+    },
+    "minor": false,
+    "namespace": 0,
+    "parsedcomment": "\u200e<span dir=\"auto\"><span class=\"autocomment\">Added [ace] description: </span></span> prot\u00e8in, #quickstatements; tambah deskripsi (ace); <a href=\"https://tools.wmflabs.org/quickstatements/#.2Fbatch.2F13308\" class=\"extiw\" title=\"toollabs:quickstatements/\">batch #13308</a> by <a href=\"/wiki/User:Rachmat04\" title=\"User:Rachmat04\">User:Rachmat04</a>",
+    "patrolled": true,
+    "revision": {
+        "new": 951786363,
+        "old": 951786349
+    },
+    "server_name": "www.wikidata.org",
+    "server_script_path": "/w",
+    "server_url": "https://www.wikidata.org",
+    "timestamp": 1559183138,
+    "title": "Q24124659",
+    "type": "edit",
+    "user": "Rachmat04",
+    "wiki": "wikidatawiki"
+},{
+    "bot": false,
+    "comment": "",
+    "id": 1158444428,
+    "log_action": "create",
+    "log_action_comment": "New user account",
+    "log_id": 99538931,
+    "log_params": {
+        "userid": 36632378
+    },
+    "log_type": "newusers",
+    "meta": {
+        "domain": "en.wikipedia.org",
+        "dt": "2019-05-30T02:25:35+00:00",
+        "id": "36e75945-8282-11e9-88d1-b083fecefaff",
+        "request_id": "XO8-HQpAME0AAFPLzi0AAABG",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://en.wikipedia.org/wiki/User:LeonRajk",
+        "partition": 0,
+        "offset": 1624628482
+    },
+    "namespace": 2,
+    "parsedcomment": "",
+    "server_name": "en.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://en.wikipedia.org",
+    "timestamp": 1559183135,
+    "title": "User:LeonRajk",
+    "type": "log",
+    "user": "LeonRajk",
+    "wiki": "enwiki"
+},{
+    "bot": false,
+    "comment": "",
+    "id": 201938937,
+    "length": {
+        "new": 2777,
+        "old": 2779
+    },
+    "meta": {
+        "domain": "es.wikipedia.org",
+        "dt": "2019-05-30T02:25:39+00:00",
+        "id": "36e7546c-8282-11e9-b9b9-1866da992e4e",
+        "request_id": "XO8-IwpAICsAAKaAs6kAAAAF",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://es.wikipedia.org/wiki/Sargassum",
+        "partition": 0,
+        "offset": 1624628483
+    },
+    "minor": false,
+    "namespace": 0,
+    "parsedcomment": "",
+    "revision": {
+        "new": 116320089,
+        "old": 115763667
+    },
+    "server_name": "es.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://es.wikipedia.org",
+    "timestamp": 1559183139,
+    "title": "Sargassum",
+    "type": "edit",
+    "user": "190.5.48.204",
+    "wiki": "eswiki"
+},{
+    "bot": false,
+    "comment": "/* wbsetclaim-create:2||1 */ [[Property:P2789]]: [[Q7060628]]",
+    "id": 988663905,
+    "length": {
+        "new": 8301,
+        "old": 7885
+    },
+    "meta": {
+        "domain": "www.wikidata.org",
+        "dt": "2019-05-30T02:25:38Z",
+        "id": "36e7642b-8282-11e9-9cfc-1418776139a6",
+        "request_id": "XO8-IgpAAE4AABDwT8oAAAAT",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://www.wikidata.org/wiki/Q19399894",
+        "partition": 0,
+        "offset": 1624628484
+    },
+    "minor": false,
+    "namespace": 0,
+    "parsedcomment": "\u200e<span dir=\"auto\"><span class=\"autocomment\">Created claim: </span></span> <a href=\"/wiki/Property:P2789\" title=\"Property:P2789\">Property:P2789</a>: <a href=\"/wiki/Q7060628\" title=\"Q7060628\">Q7060628</a>",
+    "patrolled": false,
+    "revision": {
+        "new": 951786366,
+        "old": 951172427
+    },
+    "server_name": "www.wikidata.org",
+    "server_script_path": "/w",
+    "server_url": "https://www.wikidata.org",
+    "timestamp": 1559183138,
+    "title": "Q19399894",
+    "type": "edit",
+    "user": "81.141.207.247",
+    "wiki": "wikidatawiki"
+},{
+    "bot": false,
+    "comment": "/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q64148587]], #quickstatements; [[:toollabs:quickstatements/#/batch/13300|batch #13300]] by [[User:Daniel Mietchen|]]",
+    "id": 988663906,
+    "length": {
+        "new": 65671,
+        "old": 65237
+    },
+    "meta": {
+        "domain": "www.wikidata.org",
+        "dt": "2019-05-30T02:25:38Z",
+        "id": "36e75e97-8282-11e9-9082-1866da99501c",
+        "request_id": "XO8-IQpAIDUAAKsYBt0AAAAL",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://www.wikidata.org/wiki/Q37177892",
+        "partition": 0,
+        "offset": 1624628485
+    },
+    "minor": false,
+    "namespace": 0,
+    "parsedcomment": "\u200e<span dir=\"auto\"><span class=\"autocomment\">Created claim: </span></span> <a href=\"/wiki/Property:P921\" title=\"Property:P921\">Property:P921</a>: <a href=\"/wiki/Q64148587\" title=\"Q64148587\">Q64148587</a>, #quickstatements; <a href=\"https://tools.wmflabs.org/quickstatements/#.2Fbatch.2F13300\" class=\"extiw\" title=\"toollabs:quickstatements/\">batch #13300</a> by <a href=\"/wiki/User:Daniel_Mietchen\" title=\"User:Daniel Mietchen\">User:Daniel Mietchen</a>",
+    "patrolled": true,
+    "revision": {
+        "new": 951786365,
+        "old": 836196657
+    },
+    "server_name": "www.wikidata.org",
+    "server_script_path": "/w",
+    "server_url": "https://www.wikidata.org",
+    "timestamp": 1559183138,
+    "title": "Q37177892",
+    "type": "edit",
+    "user": "Daniel Mietchen",
+    "wiki": "wikidatawiki"
+},{
+    "bot": false,
+    "comment": "Create",
+    "id": 13475969,
+    "length": {
+        "new": 2781
+    },
+    "meta": {
+        "domain": "en.wikisource.org",
+        "dt": "2019-05-30T02:25:39Z",
+        "id": "36e75d01-8282-11e9-9d05-b083fecf0dbf",
+        "request_id": "XO8-IgpAMFoAAGompMUAAACH",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://en.wikisource.org/wiki/Page:Oregon_Historical_Quarterly_vol._2.djvu/212",
+        "partition": 0,
+        "offset": 1624628489
+    },
+    "minor": false,
+    "namespace": 104,
+    "parsedcomment": "Create",
+    "patrolled": true,
+    "revision": {
+        "new": 9300320
+    },
+    "server_name": "en.wikisource.org",
+    "server_script_path": "/w",
+    "server_url": "https://en.wikisource.org",
+    "timestamp": 1559183139,
+    "title": "Page:Oregon Historical Quarterly vol. 2.djvu/212",
+    "type": "new",
+    "user": "James500",
+    "wiki": "enwikisource"
+},{
+    "bot": false,
+    "comment": "/* \u0645\u0639\u06cc\u0627\u0631\u064a \u0645\u062a\u0646\u0627\u0633\u0642\u0627\u062a */",
+    "id": 423585,
+    "length": {
+        "new": 346
+    },
+    "meta": {
+        "domain": "sd.wikipedia.org",
+        "dt": "2019-05-30T02:25:38+00:00",
+        "id": "36e757d4-8282-11e9-9f86-1866da9949ff",
+        "request_id": "XO8-IgpAEMUAAFQZbsEAAADY",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://sd.wikipedia.org/wiki/%D8%B3%D8%A7%D9%86%DA%86%D9%88:Country_data_Scotland",
+        "partition": 0,
+        "offset": 1624628491
+    },
+    "minor": false,
+    "namespace": 10,
+    "parsedcomment": "<span dir=\"auto\"><span class=\"autocomment\"><a href=\"/wiki/%D8%B3%D8%A7%D9%86%DA%86%D9%88:Country_data_Scotland#\u0645\u0639\u06cc\u0627\u0631\u064a_\u0645\u062a\u0646\u0627\u0633\u0642\u0627\u062a\" title=\"\u0633\u0627\u0646\u0686\u0648:Country data Scotland\">\u2190\u200f\u0645\u0639\u06cc\u0627\u0631\u064a \u0645\u062a\u0646\u0627\u0633\u0642\u0627\u062a</a></span></span>",
+    "patrolled": false,
+    "revision": {
+        "new": 145211
+    },
+    "server_name": "sd.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://sd.wikipedia.org",
+    "timestamp": 1559183138,
+    "title": "\u0633\u0627\u0646\u0686\u0648:Country data Scotland",
+    "type": "new",
+    "user": "Kaleem Bhatti",
+    "wiki": "sdwiki"
+},{
+    "bot": false,
+    "comment": "",
+    "id": 201938938,
+    "length": {
+        "new": 101726,
+        "old": 101726
+    },
+    "meta": {
+        "domain": "es.wikipedia.org",
+        "dt": "2019-05-30T02:25:38+00:00",
+        "id": "36e7653c-8282-11e9-81b9-b083fecef9b0",
+        "request_id": "XO8-IgpAMDwAAG0bGyoAAABX",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://es.wikipedia.org/wiki/Anexo:Capitales_en_los_Estados_Unidos",
+        "partition": 0,
+        "offset": 1624628492
+    },
+    "minor": false,
+    "namespace": 104,
+    "parsedcomment": "",
+    "revision": {
+        "new": 116320090,
+        "old": 115038646
+    },
+    "server_name": "es.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://es.wikipedia.org",
+    "timestamp": 1559183138,
+    "title": "Anexo:Capitales en los Estados Unidos",
+    "type": "edit",
+    "user": "45.232.92.193",
+    "wiki": "eswiki"
+},{
+    "bot": false,
+    "comment": "/* wbsetreference-add:2| */ [[Property:P921]]: [[Q64148587]], #quickstatements; [[:toollabs:quickstatements/#/batch/13301|batch #13301]] by [[User:Daniel Mietchen|]]",
+    "id": 988663908,
+    "length": {
+        "new": 33546,
+        "old": 33100
+    },
+    "meta": {
+        "domain": "www.wikidata.org",
+        "dt": "2019-05-30T02:25:39Z",
+        "id": "36e758b0-8282-11e9-96dc-1866da98024d",
+        "request_id": "XO8-IgpAIDMAAFTsaHIAAAAB",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://www.wikidata.org/wiki/Q47594304",
+        "partition": 0,
+        "offset": 1624628493
+    },
+    "minor": false,
+    "namespace": 0,
+    "parsedcomment": "\u200e<span dir=\"auto\"><span class=\"autocomment\">Added reference to claim: </span></span> <a href=\"/wiki/Property:P921\" title=\"Property:P921\">Property:P921</a>: <a href=\"/wiki/Q64148587\" title=\"Q64148587\">Q64148587</a>, #quickstatements; <a href=\"https://tools.wmflabs.org/quickstatements/#.2Fbatch.2F13301\" class=\"extiw\" title=\"toollabs:quickstatements/\">batch #13301</a> by <a href=\"/wiki/User:Daniel_Mietchen\" title=\"User:Daniel Mietchen\">User:Daniel Mietchen</a>",
+    "patrolled": true,
+    "revision": {
+        "new": 951786369,
+        "old": 951786353
+    },
+    "server_name": "www.wikidata.org",
+    "server_script_path": "/w",
+    "server_url": "https://www.wikidata.org",
+    "timestamp": 1559183139,
+    "title": "Q47594304",
+    "type": "edit",
+    "user": "Daniel Mietchen",
+    "wiki": "wikidatawiki"
+},{
+    "bot": false,
+    "comment": "/* Derivation */ WP:NOTED",
+    "id": 1158444429,
+    "length": {
+        "new": 24484,
+        "old": 24508
+    },
+    "meta": {
+        "domain": "en.wikipedia.org",
+        "dt": "2019-05-30T02:25:38+00:00",
+        "id": "36e76633-8282-11e9-b447-141877613a1c",
+        "request_id": "XO8-IgpAADkAAHwEsKMAAABW",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://en.wikipedia.org/wiki/Parshall_flume",
+        "partition": 0,
+        "offset": 1624628494
+    },
+    "minor": false,
+    "namespace": 0,
+    "parsedcomment": "<span dir=\"auto\"><span class=\"autocomment\"><a href=\"/wiki/Parshall_flume#Derivation\" title=\"Parshall flume\">\u2192\u200eDerivation</a>: </span> WP:NOTED</span>",
+    "revision": {
+        "new": 899441906,
+        "old": 898682986
+    },
+    "server_name": "en.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://en.wikipedia.org",
+    "timestamp": 1559183138,
+    "title": "Parshall flume",
+    "type": "edit",
+    "user": "Dgpop",
+    "wiki": "enwiki"
+},{
+    "bot": false,
+    "comment": "[[:Page:Oregon Historical Quarterly vol. 2.djvu/212]] added to category, [[Special:WhatLinksHere/Page:Oregon Historical Quarterly vol. 2.djvu/212|this page is included within other pages]]",
+    "id": 13475970,
+    "meta": {
+        "domain": "en.wikisource.org",
+        "dt": "2019-05-30T02:25:39Z",
+        "id": "36e766be-8282-11e9-b085-1866da97fe87",
+        "request_id": "XO8-IgpAMFoAAGompMUAAACH",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://en.wikisource.org/wiki/Category:Not_proofread",
+        "partition": 0,
+        "offset": 1624628495
+    },
+    "namespace": 14,
+    "parsedcomment": "<a href=\"/wiki/Page:Oregon_Historical_Quarterly_vol._2.djvu/212\" title=\"Page:Oregon Historical Quarterly vol. 2.djvu/212\">Page:Oregon Historical Quarterly vol. 2.djvu/212</a> added to category, <a href=\"/wiki/Special:WhatLinksHere/Page:Oregon_Historical_Quarterly_vol._2.djvu/212\" title=\"Special:WhatLinksHere/Page:Oregon Historical Quarterly vol. 2.djvu/212\">this page is included within other pages</a>",
+    "server_name": "en.wikisource.org",
+    "server_script_path": "/w",
+    "server_url": "https://en.wikisource.org",
+    "timestamp": 1559183139,
+    "title": "Category:Not proofread",
+    "type": "categorize",
+    "user": "James500",
+    "wiki": "enwikisource"
+},{
+    "bot": false,
+    "comment": "/* wbsetreference-add:2| */ [[Property:P921]]: [[Q660910]], #quickstatements; [[:toollabs:quickstatements/#/batch/13302|batch #13302]] by [[User:Daniel Mietchen|]]",
+    "id": 988663909,
+    "length": {
+        "new": 19753,
+        "old": 19307
+    },
+    "meta": {
+        "domain": "www.wikidata.org",
+        "dt": "2019-05-30T02:25:39Z",
+        "id": "36e76128-8282-11e9-9d84-141877613170",
+        "request_id": "XO8-IgpAEDEAAC9GQAQAAACP",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://www.wikidata.org/wiki/Q36532706",
+        "partition": 0,
+        "offset": 1624628496
+    },
+    "minor": false,
+    "namespace": 0,
+    "parsedcomment": "\u200e<span dir=\"auto\"><span class=\"autocomment\">Added reference to claim: </span></span> <a href=\"/wiki/Property:P921\" title=\"Property:P921\">Property:P921</a>: <a href=\"/wiki/Q660910\" title=\"Q660910\">Q660910</a>, #quickstatements; <a href=\"https://tools.wmflabs.org/quickstatements/#.2Fbatch.2F13302\" class=\"extiw\" title=\"toollabs:quickstatements/\">batch #13302</a> by <a href=\"/wiki/User:Daniel_Mietchen\" title=\"User:Daniel Mietchen\">User:Daniel Mietchen</a>",
+    "patrolled": true,
+    "revision": {
+        "new": 951786370,
+        "old": 951786356
+    },
+    "server_name": "www.wikidata.org",
+    "server_script_path": "/w",
+    "server_url": "https://www.wikidata.org",
+    "timestamp": 1559183139,
+    "title": "Q36532706",
+    "type": "edit",
+    "user": "Daniel Mietchen",
+    "wiki": "wikidatawiki"
+},{
+    "bot": false,
+    "comment": "\u589e\u52a0\u4f86\u6e90",
+    "id": 109135122,
+    "length": {
+        "new": 4944,
+        "old": 4701
+    },
+    "meta": {
+        "domain": "zh.wikipedia.org",
+        "dt": "2019-05-30T02:25:39+00:00",
+        "id": "36e75b7e-8282-11e9-b38a-141877614a81",
+        "request_id": "XO8-IwpAAEkAAFY-YuQAAABI",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://zh.wikipedia.org/wiki/%E5%BA%B7%E7%86%99%E8%87%BA%E5%8C%97%E6%B9%96",
+        "partition": 0,
+        "offset": 1624628497
+    },
+    "minor": false,
+    "namespace": 0,
+    "parsedcomment": "\u589e\u52a0\u4f86\u6e90",
+    "revision": {
+        "new": 54611067,
+        "old": 54610971
+    },
+    "server_name": "zh.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://zh.wikipedia.org",
+    "timestamp": 1559183139,
+    "title": "\u5eb7\u7199\u81fa\u5317\u6e56",
+    "type": "edit",
+    "user": "SFF0901",
+    "wiki": "zhwiki"
+},{
+    "bot": false,
+    "comment": "added [[Category:Images taken by G-13114]]",
+    "id": 1225246965,
+    "length": {
+        "new": 434,
+        "old": 397
+    },
+    "meta": {
+        "domain": "commons.wikimedia.org",
+        "dt": "2019-05-30T02:25:39Z",
+        "id": "377ff6ce-8282-11e9-a6c1-1866da991ca7",
+        "request_id": "XO8-IwpAICIAALJRJMUAAAAS",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://commons.wikimedia.org/wiki/File:Ridge_and_furrow_remains_at_Swift_Valley_Nature_Reserve.jpg",
+        "partition": 0,
+        "offset": 1624628498
+    },
+    "minor": true,
+    "namespace": 6,
+    "parsedcomment": "added <a href=\"/wiki/Category:Images_taken_by_G-13114\" title=\"Category:Images taken by G-13114\">Category:Images taken by G-13114</a>",
+    "patrolled": true,
+    "revision": {
+        "new": 352428134,
+        "old": 347425873
+    },
+    "server_name": "commons.wikimedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://commons.wikimedia.org",
+    "timestamp": 1559183139,
+    "title": "File:Ridge and furrow remains at Swift Valley Nature Reserve.jpg",
+    "type": "edit",
+    "user": "G-13114",
+    "wiki": "commonswiki"
+},{
+    "bot": false,
+    "comment": "/* wbcreateclaim-create:1| */ [[Property:P6179]]: 1000971372, #quickstatements; [[:toollabs:quickstatements/#/batch/13295|batch #13295]] by [[User:Sic19|]]",
+    "id": 988663910,
+    "length": {
+        "new": 84950,
+        "old": 84598
+    },
+    "meta": {
+        "domain": "www.wikidata.org",
+        "dt": "2019-05-30T02:25:38Z",
+        "id": "377ff849-8282-11e9-a113-1866da9944e4",
+        "request_id": "XO8-IQpAEMIAALYewv0AAABL",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://www.wikidata.org/wiki/Q37384192",
+        "partition": 0,
+        "offset": 1624628499
+    },
+    "minor": false,
+    "namespace": 0,
+    "parsedcomment": "\u200e<span dir=\"auto\"><span class=\"autocomment\">Created claim: </span></span> <a href=\"/wiki/Property:P6179\" title=\"Property:P6179\">Property:P6179</a>: 1000971372, #quickstatements; <a href=\"https://tools.wmflabs.org/quickstatements/#.2Fbatch.2F13295\" class=\"extiw\" title=\"toollabs:quickstatements/\">batch #13295</a> by <a href=\"/wiki/User:Sic19\" title=\"User:Sic19\">User:Sic19</a>",
+    "patrolled": true,
+    "revision": {
+        "new": 951786368,
+        "old": 936377820
+    },
+    "server_name": "www.wikidata.org",
+    "server_script_path": "/w",
+    "server_url": "https://www.wikidata.org",
+    "timestamp": 1559183138,
+    "title": "Q37384192",
+    "type": "edit",
+    "user": "Sic19",
+    "wiki": "wikidatawiki"
+},{
+    "bot": false,
+    "comment": "[[:\u0633\u0627\u0646\u0686\u0648:Country data Scotland]] added to category, [[Special:WhatLinksHere/\u0633\u0627\u0646\u0686\u0648:Country data Scotland|this page is included within other pages]]",
+    "id": 423586,
+    "meta": {
+        "domain": "sd.wikipedia.org",
+        "dt": "2019-05-30T02:25:38+00:00",
+        "id": "377ffd17-8282-11e9-b6ea-1866da994975",
+        "request_id": "XO8-IgpAEMUAAFQZbsEAAADY",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://sd.wikipedia.org/wiki/%D8%B2%D9%85%D8%B1%D9%88:%D8%B3%D8%A7%D9%86%DA%86%D8%A7",
+        "partition": 0,
+        "offset": 1624628501
+    },
+    "namespace": 14,
+    "parsedcomment": "<a href=\"/wiki/%D8%B3%D8%A7%D9%86%DA%86%D9%88:Country_data_Scotland\" title=\"\u0633\u0627\u0646\u0686\u0648:Country data Scotland\">\u0633\u0627\u0646\u0686\u0648:Country data Scotland</a> added to category, <a href=\"/wiki/%D8%AE%D8%A7%D8%B5:%D9%87%D8%AA%D8%A7%D9%86_%DA%B3%D9%86%DA%8D%D9%8A%D9%84_%D8%B5%D9%81%D8%AD%D8%A7/%D8%B3%D8%A7%D9%86%DA%86%D9%88:Country_data_Scotland\" title=\"\u062e\u0627\u0635:\u0647\u062a\u0627\u0646 \u06b3\u0646\u068d\u064a\u0644 \u0635\u0641\u062d\u0627/\u0633\u0627\u0646\u0686\u0648:Country data Scotland\">this page is included within other pages</a>",
+    "server_name": "sd.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://sd.wikipedia.org",
+    "timestamp": 1559183138,
+    "title": "\u0632\u0645\u0631\u0648:\u0633\u0627\u0646\u0686\u0627",
+    "type": "categorize",
+    "user": "Kaleem Bhatti",
+    "wiki": "sdwiki"
+},{
+    "bot": false,
+    "comment": "[[:\u0633\u0627\u0646\u0686\u0648:Country data Scotland]] added to category, [[Special:WhatLinksHere/\u0633\u0627\u0646\u0686\u0648:Country data Scotland|this page is included within other pages]]",
+    "id": 423587,
+    "meta": {
+        "domain": "sd.wikipedia.org",
+        "dt": "2019-05-30T02:25:38+00:00",
+        "id": "377ffd18-8282-11e9-b6ea-1866da994975",
+        "request_id": "XO8-IgpAEMUAAFQZbsEAAADY",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://sd.wikipedia.org/wiki/%D8%B2%D9%85%D8%B1%D9%88:%D8%B3%D8%A7%D9%86%DA%86%D8%A7_%D9%85%D9%84%DA%AA%D9%86_%D8%AC%D9%8A_%D9%85%D8%B9%D8%B7%DB%8C%D8%A7%D8%AA",
+        "partition": 0,
+        "offset": 1624628502
+    },
+    "namespace": 14,
+    "parsedcomment": "<a href=\"/wiki/%D8%B3%D8%A7%D9%86%DA%86%D9%88:Country_data_Scotland\" title=\"\u0633\u0627\u0646\u0686\u0648:Country data Scotland\">\u0633\u0627\u0646\u0686\u0648:Country data Scotland</a> added to category, <a href=\"/wiki/%D8%AE%D8%A7%D8%B5:%D9%87%D8%AA%D8%A7%D9%86_%DA%B3%D9%86%DA%8D%D9%8A%D9%84_%D8%B5%D9%81%D8%AD%D8%A7/%D8%B3%D8%A7%D9%86%DA%86%D9%88:Country_data_Scotland\" title=\"\u062e\u0627\u0635:\u0647\u062a\u0627\u0646 \u06b3\u0646\u068d\u064a\u0644 \u0635\u0641\u062d\u0627/\u0633\u0627\u0646\u0686\u0648:Country data Scotland\">this page is included within other pages</a>",
+    "server_name": "sd.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://sd.wikipedia.org",
+    "timestamp": 1559183138,
+    "title": "\u0632\u0645\u0631\u0648:\u0633\u0627\u0646\u0686\u0627 \u0645\u0644\u06aa\u0646 \u062c\u064a \u0645\u0639\u0637\u06cc\u0627\u062a",
+    "type": "categorize",
+    "user": "Kaleem Bhatti",
+    "wiki": "sdwiki"
+},{
+    "bot": false,
+    "comment": "[[:\u0633\u0627\u0646\u0686\u0648:Country data Scotland]] added to category, [[Special:WhatLinksHere/\u0633\u0627\u0646\u0686\u0648:Country data Scotland|this page is included within other pages]]",
+    "id": 423588,
+    "meta": {
+        "domain": "sd.wikipedia.org",
+        "dt": "2019-05-30T02:25:38+00:00",
+        "id": "377ffd19-8282-11e9-b6ea-1866da994975",
+        "request_id": "XO8-IgpAEMUAAFQZbsEAAADY",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://sd.wikipedia.org/wiki/%D8%B2%D9%85%D8%B1%D9%88:%D8%B3%D8%A7%D9%86%DA%86%D8%A7_%D9%85%D9%84%DA%AA%D9%86_%D8%AC%D9%8A_%D9%85%D8%B9%D8%B7%DB%8C%D8%A7%D8%AA_%D9%85%D8%B9_%D9%85%D9%85%DB%8C%D8%B2_%D8%A7%D8%B3%D9%85_%D8%B3%D8%A7%D9%86%DA%86%D8%A7",
+        "partition": 0,
+        "offset": 1624628503
+    },
+    "namespace": 14,
+    "parsedcomment": "<a href=\"/wiki/%D8%B3%D8%A7%D9%86%DA%86%D9%88:Country_data_Scotland\" title=\"\u0633\u0627\u0646\u0686\u0648:Country data Scotland\">\u0633\u0627\u0646\u0686\u0648:Country data Scotland</a> added to category, <a href=\"/wiki/%D8%AE%D8%A7%D8%B5:%D9%87%D8%AA%D8%A7%D9%86_%DA%B3%D9%86%DA%8D%D9%8A%D9%84_%D8%B5%D9%81%D8%AD%D8%A7/%D8%B3%D8%A7%D9%86%DA%86%D9%88:Country_data_Scotland\" title=\"\u062e\u0627\u0635:\u0647\u062a\u0627\u0646 \u06b3\u0646\u068d\u064a\u0644 \u0635\u0641\u062d\u0627/\u0633\u0627\u0646\u0686\u0648:Country data Scotland\">this page is included within other pages</a>",
+    "server_name": "sd.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://sd.wikipedia.org",
+    "timestamp": 1559183138,
+    "title": "\u0632\u0645\u0631\u0648:\u0633\u0627\u0646\u0686\u0627 \u0645\u0644\u06aa\u0646 \u062c\u064a \u0645\u0639\u0637\u06cc\u0627\u062a \u0645\u0639 \u0645\u0645\u06cc\u0632 \u0627\u0633\u0645 \u0633\u0627\u0646\u0686\u0627",
+    "type": "categorize",
+    "user": "Kaleem Bhatti",
+    "wiki": "sdwiki"
+},{
+    "bot": false,
+    "comment": "[[:\u0633\u0627\u0646\u0686\u0648:Country data Scotland]] added to category, [[Special:WhatLinksHere/\u0633\u0627\u0646\u0686\u0648:Country data Scotland|this page is included within other pages]]",
+    "id": 423589,
+    "meta": {
+        "domain": "sd.wikipedia.org",
+        "dt": "2019-05-30T02:25:38+00:00",
+        "id": "377ffd1a-8282-11e9-b6ea-1866da994975",
+        "request_id": "XO8-IgpAEMUAAFQZbsEAAADY",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://sd.wikipedia.org/wiki/%D8%B2%D9%85%D8%B1%D9%88:%D8%AC%D9%87%D9%86%DA%8A%D9%88_%D8%B3%D8%A7%D9%86%DA%86%D9%88_%D9%86%D8%B8%D8%A7%D9%85",
+        "partition": 0,
+        "offset": 1624628504
+    },
+    "namespace": 14,
+    "parsedcomment": "<a href=\"/wiki/%D8%B3%D8%A7%D9%86%DA%86%D9%88:Country_data_Scotland\" title=\"\u0633\u0627\u0646\u0686\u0648:Country data Scotland\">\u0633\u0627\u0646\u0686\u0648:Country data Scotland</a> added to category, <a href=\"/wiki/%D8%AE%D8%A7%D8%B5:%D9%87%D8%AA%D8%A7%D9%86_%DA%B3%D9%86%DA%8D%D9%8A%D9%84_%D8%B5%D9%81%D8%AD%D8%A7/%D8%B3%D8%A7%D9%86%DA%86%D9%88:Country_data_Scotland\" title=\"\u062e\u0627\u0635:\u0647\u062a\u0627\u0646 \u06b3\u0646\u068d\u064a\u0644 \u0635\u0641\u062d\u0627/\u0633\u0627\u0646\u0686\u0648:Country data Scotland\">this page is included within other pages</a>",
+    "server_name": "sd.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://sd.wikipedia.org",
+    "timestamp": 1559183138,
+    "title": "\u0632\u0645\u0631\u0648:\u062c\u0647\u0646\u068a\u0648 \u0633\u0627\u0646\u0686\u0648 \u0646\u0638\u0627\u0645",
+    "type": "categorize",
+    "user": "Kaleem Bhatti",
+    "wiki": "sdwiki"
+},{
+    "bot": false,
+    "comment": "/* \u5c08\u696d\u8853\u8a9e */ \u4fee\u98fe\u8a9e\u53e5",
+    "id": 109135123,
+    "length": {
+        "new": 12919,
+        "old": 12598
+    },
+    "meta": {
+        "domain": "zh.wikipedia.org",
+        "dt": "2019-05-30T02:25:39+00:00",
+        "id": "377ff8e7-8282-11e9-b0ce-1866da995286",
+        "request_id": "XO8-IwpAIC4AALNLIgIAAABT",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://zh.wikipedia.org/wiki/%E7%87%9F%E5%BB%BA%E7%AE%A1%E7%90%86",
+        "partition": 0,
+        "offset": 1624628505
+    },
+    "minor": true,
+    "namespace": 0,
+    "parsedcomment": "<span dir=\"auto\"><span class=\"autocomment\"><a href=\"/wiki/%E7%87%9F%E5%BB%BA%E7%AE%A1%E7%90%86#\u5c08\u696d\u8853\u8a9e\" title=\"\u71df\u5efa\u7ba1\u7406\">\u2192\u200e\u5c08\u696d\u8853\u8a9e</a>\uff1a</span> \u4fee\u98fe\u8a9e\u53e5</span>",
+    "revision": {
+        "new": 54611068,
+        "old": 53574562
+    },
+    "server_name": "zh.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://zh.wikipedia.org",
+    "timestamp": 1559183139,
+    "title": "\u71df\u5efa\u7ba1\u7406",
+    "type": "edit",
+    "user": "Cmis2017",
+    "wiki": "zhwiki"
+},{
+    "bot": false,
+    "comment": "/* A */ +1",
+    "id": 275058504,
+    "length": {
+        "new": 34670,
+        "old": 34605
+    },
+    "meta": {
+        "domain": "de.wikipedia.org",
+        "dt": "2019-05-30T02:25:40+00:00",
+        "id": "377ffa3c-8282-11e9-ba5e-b083fecf0e3f",
+        "request_id": "XO8-JApAMEoAALW1-YIAAABB",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://de.wikipedia.org/wiki/Benutzer:Aka/Fehlerlisten/Deklinationsfehler/Ausschluss",
+        "partition": 0,
+        "offset": 1624628510
+    },
+    "minor": false,
+    "namespace": 2,
+    "parsedcomment": "<span dir=\"auto\"><span class=\"autocomment\"><a href=\"/wiki/Benutzer:Aka/Fehlerlisten/Deklinationsfehler/Ausschluss#A\" title=\"Benutzer:Aka/Fehlerlisten/Deklinationsfehler/Ausschluss\">\u2192\u200eA</a>: </span> +1</span>",
+    "revision": {
+        "new": 189075594,
+        "old": 189075585
+    },
+    "server_name": "de.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://de.wikipedia.org",
+    "timestamp": 1559183140,
+    "title": "Benutzer:Aka/Fehlerlisten/Deklinationsfehler/Ausschluss",
+    "type": "edit",
+    "user": "Bicycle Tourer",
+    "wiki": "dewiki"
+},{
+    "bot": false,
+    "comment": "/* Nh\u00e0 n\u01b0\u1edbc Junagadh */",
+    "id": 86878823,
+    "length": {
+        "new": 709014,
+        "old": 708332
+    },
+    "meta": {
+        "domain": "vi.wikipedia.org",
+        "dt": "2019-05-30T02:25:40+00:00",
+        "id": "377fefc8-8282-11e9-88d1-b083fecefaff",
+        "request_id": "XO8-JApAME0AAFPLz1EAAABY",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://vi.wikipedia.org/wiki/Ph%E1%BB%A5c_b%C3%ADch",
+        "partition": 0,
+        "offset": 1624628511
+    },
+    "minor": false,
+    "namespace": 0,
+    "parsedcomment": "<span dir=\"auto\"><span class=\"autocomment\"><a href=\"/wiki/Ph%E1%BB%A5c_b%C3%ADch#Nh\u00e0_n\u01b0\u1edbc_Junagadh\" title=\"Ph\u1ee5c b\u00edch\">\u2192\u200eNh\u00e0 n\u01b0\u1edbc Junagadh</a></span></span>",
+    "patrolled": true,
+    "revision": {
+        "new": 53596121,
+        "old": 53573498
+    },
+    "server_name": "vi.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://vi.wikipedia.org",
+    "timestamp": 1559183140,
+    "title": "Ph\u1ee5c b\u00edch",
+    "type": "edit",
+    "user": "Kinh nghi\u1ec7m - b\u00e1n kh\u00f4ng ai mua, mua kh\u00f4ng ai b\u00e1n",
+    "wiki": "viwiki"
+},{
+    "bot": false,
+    "comment": "/* wbsetdescription-add:1|ace */ prot\u00e8in, #quickstatements; tambah deskripsi (ace); [[:toollabs:quickstatements/#/batch/13307|batch #13307]] by [[User:Rachmat04|]]",
+    "id": 988663915,
+    "length": {
+        "new": 75765,
+        "old": 75697
+    },
+    "meta": {
+        "domain": "www.wikidata.org",
+        "dt": "2019-05-30T02:25:39Z",
+        "id": "377ff791-8282-11e9-b29b-b083fecf12f3",
+        "request_id": "XO8-IwpAMDgAAKzizqMAAABU",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://www.wikidata.org/wiki/Q24120963",
+        "partition": 0,
+        "offset": 1624628512
+    },
+    "minor": false,
+    "namespace": 0,
+    "parsedcomment": "\u200e<span dir=\"auto\"><span class=\"autocomment\">Added [ace] description: </span></span> prot\u00e8in, #quickstatements; tambah deskripsi (ace); <a href=\"https://tools.wmflabs.org/quickstatements/#.2Fbatch.2F13307\" class=\"extiw\" title=\"toollabs:quickstatements/\">batch #13307</a> by <a href=\"/wiki/User:Rachmat04\" title=\"User:Rachmat04\">User:Rachmat04</a>",
+    "patrolled": true,
+    "revision": {
+        "new": 951786375,
+        "old": 951786357
+    },
+    "server_name": "www.wikidata.org",
+    "server_script_path": "/w",
+    "server_url": "https://www.wikidata.org",
+    "timestamp": 1559183139,
+    "title": "Q24120963",
+    "type": "edit",
+    "user": "Rachmat04",
+    "wiki": "wikidatawiki"
+},{
+    "bot": false,
+    "comment": "[[:File:Ridge and furrow remains at Swift Valley Nature Reserve.jpg]] added to category",
+    "id": 1225246966,
+    "meta": {
+        "domain": "commons.wikimedia.org",
+        "dt": "2019-05-30T02:25:39Z",
+        "id": "377ff383-8282-11e9-8658-141877613164",
+        "request_id": "XO8-IwpAICIAALJRJMUAAAAS",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://commons.wikimedia.org/wiki/Category:Images_taken_by_G-13114",
+        "partition": 0,
+        "offset": 1624628513
+    },
+    "namespace": 14,
+    "parsedcomment": "<a href=\"/wiki/File:Ridge_and_furrow_remains_at_Swift_Valley_Nature_Reserve.jpg\" title=\"File:Ridge and furrow remains at Swift Valley Nature Reserve.jpg\">File:Ridge and furrow remains at Swift Valley Nature Reserve.jpg</a> added to category",
+    "server_name": "commons.wikimedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://commons.wikimedia.org",
+    "timestamp": 1559183139,
+    "title": "Category:Images taken by G-13114",
+    "type": "categorize",
+    "user": "G-13114",
+    "wiki": "commonswiki"
+},{
+    "bot": false,
+    "comment": "\u0627\u0641\u0632\u0648\u062f\u0646  [[\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc\u0627:\u0646\u0638\u0631\u062e\u0648\u0627\u0647\u06cc \u0628\u0631\u0627\u06cc \u062d\u0630\u0641/\u0637\u0631\u06cc\u0642\u062a \u0642\u0627\u062f\u0631\u06cc\u0647 \u0637\u0627\u0644\u0628\u0627\u0646\u06cc]]. ([[\u0648\u067e:\u062a\u0648\u06cc\u0646\u06a9\u0644|\u062a\u0648\u06cc\u0646\u06a9\u0644]])",
+    "id": 55010088,
+    "length": {
+        "new": 6634,
+        "old": 6538
+    },
+    "meta": {
+        "domain": "fa.wikipedia.org",
+        "dt": "2019-05-30T02:25:37+00:00",
+        "id": "377ff967-8282-11e9-bcc6-1418776134f3",
+        "request_id": "XO8-IQpAAE0AABdAnqcAAACQ",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D9%86%D8%B8%D8%B1%D8%AE%D9%88%D8%A7%D9%87%DB%8C_%D8%A8%D8%B1%D8%A7%DB%8C_%D8%AD%D8%B0%D9%81",
+        "partition": 0,
+        "offset": 1624628514
+    },
+    "minor": false,
+    "namespace": 4,
+    "parsedcomment": "\u0627\u0641\u0632\u0648\u062f\u0646  <a href=\"/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D9%86%D8%B8%D8%B1%D8%AE%D9%88%D8%A7%D9%87%DB%8C_%D8%A8%D8%B1%D8%A7%DB%8C_%D8%AD%D8%B0%D9%81/%D8%B7%D8%B1%DB%8C%D9%82%D8%AA_%D9%82%D8%A7%D8%AF%D8%B1%DB%8C%D9%87_%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D9%86%DB%8C\" title=\"\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc\u0627:\u0646\u0638\u0631\u062e\u0648\u0627\u0647\u06cc \u0628\u0631\u0627\u06cc \u062d\u0630\u0641/\u0637\u0631\u06cc\u0642\u062a \u0642\u0627\u062f\u0631\u06cc\u0647 \u0637\u0627\u0644\u0628\u0627\u0646\u06cc\">\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc\u0627:\u0646\u0638\u0631\u062e\u0648\u0627\u0647\u06cc \u0628\u0631\u0627\u06cc \u062d\u0630\u0641/\u0637\u0631\u06cc\u0642\u062a \u0642\u0627\u062f\u0631\u06cc\u0647 \u0637\u0627\u0644\u0628\u0627\u0646\u06cc</a>. (<a href=\"/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D8%AA%D9%88%DB%8C%D9%86%DA%A9%D9%84\" title=\"\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc\u0627:\u062a\u0648\u06cc\u0646\u06a9\u0644\">\u062a\u0648\u06cc\u0646\u06a9\u0644</a>)",
+    "patrolled": true,
+    "revision": {
+        "new": 26316254,
+        "old": 26315876
+    },
+    "server_name": "fa.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://fa.wikipedia.org",
+    "timestamp": 1559183137,
+    "title": "\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc\u0627:\u0646\u0638\u0631\u062e\u0648\u0627\u0647\u06cc \u0628\u0631\u0627\u06cc \u062d\u0630\u0641",
+    "type": "edit",
+    "user": "\u062e\u0627\u0686\u06cc",
+    "wiki": "fawiki"
+},{
+    "bot": false,
+    "comment": "General note: Removal of content, blanking on [[:USS John S. McCain (DDG-56)]]. ([[WP:TW|TW]])",
+    "id": 1158444430,
+    "length": {
+        "new": 1109
+    },
+    "meta": {
+        "domain": "en.wikipedia.org",
+        "dt": "2019-05-30T02:25:40+00:00",
+        "id": "377ff178-8282-11e9-8da2-1866da9942e0",
+        "request_id": "XO8-JApAIDkAACVju-UAAABU",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://en.wikipedia.org/wiki/User_talk:173.79.119.45",
+        "partition": 0,
+        "offset": 1624628515
+    },
+    "minor": false,
+    "namespace": 3,
+    "parsedcomment": "General note: Removal of content, blanking on <a href=\"/wiki/USS_John_S._McCain_(DDG-56)\" title=\"USS John S. McCain (DDG-56)\">USS John S. McCain (DDG-56)</a>. (<a href=\"/wiki/Wikipedia:TW\" class=\"mw-redirect\" title=\"Wikipedia:TW\">TW</a>)",
+    "patrolled": false,
+    "revision": {
+        "new": 899441908
+    },
+    "server_name": "en.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://en.wikipedia.org",
+    "timestamp": 1559183140,
+    "title": "User talk:173.79.119.45",
+    "type": "new",
+    "user": "LizardJr8",
+    "wiki": "enwiki"
+},{
+    "bot": false,
+    "comment": "/* M\u00e1s de los Llanos */",
+    "id": 201938939,
+    "length": {
+        "new": 51180,
+        "old": 51150
+    },
+    "meta": {
+        "domain": "es.wikipedia.org",
+        "dt": "2019-05-30T02:25:40+00:00",
+        "id": "3818848f-8282-11e9-9f86-1866da9949ff",
+        "request_id": "XO8-JApAEMUAAFQZbyIAAADY",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://es.wikipedia.org/wiki/%C3%89poca_de_la_colonia_(Venezuela)",
+        "partition": 0,
+        "offset": 1624628518
+    },
+    "minor": false,
+    "namespace": 0,
+    "parsedcomment": "<span dir=\"auto\"><span class=\"autocomment\"><a href=\"/wiki/%C3%89poca_de_la_colonia_(Venezuela)#M\u00e1s_de_los_Llanos\" title=\"\u00c9poca de la colonia (Venezuela)\">\u2192\u200eM\u00e1s de los Llanos</a></span></span>",
+    "revision": {
+        "new": 116320091,
+        "old": 116320000
+    },
+    "server_name": "es.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://es.wikipedia.org",
+    "timestamp": 1559183140,
+    "title": "\u00c9poca de la colonia (Venezuela)",
+    "type": "edit",
+    "user": "186.94.95.154",
+    "wiki": "eswiki"
+},{
+    "bot": false,
+    "comment": "/* Involvement in aviation */ Added citation no.6 from Citation Hunt #1lib1ref",
+    "id": 1158444431,
+    "length": {
+        "new": 11042,
+        "old": 10901
+    },
+    "meta": {
+        "domain": "en.wikipedia.org",
+        "dt": "2019-05-30T02:25:39+00:00",
+        "id": "38188e99-8282-11e9-8a74-1866da9926fb",
+        "request_id": "XO8-IwpAIDYAABbxN0UAAAAL",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://en.wikipedia.org/wiki/Tim_Wallis",
+        "partition": 0,
+        "offset": 1624628519
+    },
+    "minor": true,
+    "namespace": 0,
+    "parsedcomment": "<span dir=\"auto\"><span class=\"autocomment\"><a href=\"/wiki/Tim_Wallis#Involvement_in_aviation\" title=\"Tim Wallis\">\u2192\u200eInvolvement in aviation</a>: </span> Added citation no.6 from Citation Hunt #1lib1ref</span>",
+    "revision": {
+        "new": 899441907,
+        "old": 891154690
+    },
+    "server_name": "en.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://en.wikipedia.org",
+    "timestamp": 1559183139,
+    "title": "Tim Wallis",
+    "type": "edit",
+    "user": "NMWhitt",
+    "wiki": "enwiki"
+},{
+    "bot": false,
+    "comment": "/* wbsetdescription-add:1|id */ protein, #quickstatements; tambah deskripsi (id); [[:toollabs:quickstatements/#/batch/13308|batch #13308]] by [[User:Rachmat04|]]",
+    "id": 988663917,
+    "length": {
+        "new": 31891,
+        "old": 31826
+    },
+    "meta": {
+        "domain": "www.wikidata.org",
+        "dt": "2019-05-30T02:25:40Z",
+        "id": "3818885b-8282-11e9-91e1-14187761340f",
+        "request_id": "XO8-IwpAAEsAAAo21EYAAACO",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://www.wikidata.org/wiki/Q24124660",
+        "partition": 0,
+        "offset": 1624628520
+    },
+    "minor": false,
+    "namespace": 0,
+    "parsedcomment": "\u200e<span dir=\"auto\"><span class=\"autocomment\">Added [id] description: </span></span> protein, #quickstatements; tambah deskripsi (id); <a href=\"https://tools.wmflabs.org/quickstatements/#.2Fbatch.2F13308\" class=\"extiw\" title=\"toollabs:quickstatements/\">batch #13308</a> by <a href=\"/wiki/User:Rachmat04\" title=\"User:Rachmat04\">User:Rachmat04</a>",
+    "patrolled": true,
+    "revision": {
+        "new": 951786377,
+        "old": 868759926
+    },
+    "server_name": "www.wikidata.org",
+    "server_script_path": "/w",
+    "server_url": "https://www.wikidata.org",
+    "timestamp": 1559183140,
+    "title": "Q24124660",
+    "type": "edit",
+    "user": "Rachmat04",
+    "wiki": "wikidatawiki"
+},{
+    "bot": false,
+    "comment": "",
+    "id": 103605105,
+    "length": {
+        "new": 7367,
+        "old": 7255
+    },
+    "meta": {
+        "domain": "ja.wikipedia.org",
+        "dt": "2019-05-30T02:25:41+00:00",
+        "id": "38188105-8282-11e9-a0e1-14187761316a",
+        "request_id": "XO8-JQpAAEMAACo9y@EAAACN",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%B5%A6%E7%9B%B4%E4%B9%8B",
+        "partition": 0,
+        "offset": 1624628523
+    },
+    "minor": false,
+    "namespace": 0,
+    "parsedcomment": "",
+    "revision": {
+        "new": 72930308,
+        "old": 72919862
+    },
+    "server_name": "ja.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://ja.wikipedia.org",
+    "timestamp": 1559183141,
+    "title": "\u4e09\u6d66\u76f4\u4e4b",
+    "type": "edit",
+    "user": "Lifeonthetable",
+    "wiki": "jawiki"
+},{
+    "bot": false,
+    "comment": "assessed",
+    "id": 1158444432,
+    "length": {
+        "new": 150,
+        "old": 139
+    },
+    "meta": {
+        "domain": "en.wikipedia.org",
+        "dt": "2019-05-30T02:25:41+00:00",
+        "id": "3818816e-8282-11e9-b9b9-1866da992e4e",
+        "request_id": "XO8-JQpAICsAAJra-vUAAACF",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://en.wikipedia.org/wiki/Talk:Sarah_Jane_Salazar",
+        "partition": 0,
+        "offset": 1624628524
+    },
+    "minor": false,
+    "namespace": 1,
+    "parsedcomment": "assessed",
+    "revision": {
+        "new": 899441909,
+        "old": 756938175
+    },
+    "server_name": "en.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://en.wikipedia.org",
+    "timestamp": 1559183141,
+    "title": "Talk:Sarah Jane Salazar",
+    "type": "edit",
+    "user": "Lenticel",
+    "wiki": "enwiki"
+},{
+    "bot": false,
+    "comment": "/* wbcreateclaim-create:1| */ [[Property:P407]]: [[Q1860]], #petscan",
+    "id": 988663921,
+    "length": {
+        "new": 23336,
+        "old": 22910
+    },
+    "meta": {
+        "domain": "www.wikidata.org",
+        "dt": "2019-05-30T02:25:41Z",
+        "id": "38b11a07-8282-11e9-8d5d-1866da9942a4",
+        "request_id": "XO8-JQpAIDoAAIR3an4AAABY",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://www.wikidata.org/wiki/Q46601962",
+        "partition": 0,
+        "offset": 1624628530
+    },
+    "minor": false,
+    "namespace": 0,
+    "parsedcomment": "\u200e<span dir=\"auto\"><span class=\"autocomment\">Affirmation ajout\u00e9e\u00a0: </span></span> <a href=\"/wiki/Property:P407\" title=\"Property:P407\">Property:P407</a>: <a href=\"/wiki/Q1860\" title=\"Q1860\">Q1860</a>, #petscan",
+    "patrolled": true,
+    "revision": {
+        "new": 951786382,
+        "old": 935106361
+    },
+    "server_name": "www.wikidata.org",
+    "server_script_path": "/w",
+    "server_url": "https://www.wikidata.org",
+    "timestamp": 1559183141,
+    "title": "Q46601962",
+    "type": "edit",
+    "user": "Simon Villeneuve",
+    "wiki": "wikidatawiki"
+},{
+    "bot": false,
+    "comment": "/* wbsetreference-add:2| */ [[Property:P921]]: [[Q64148587]], #quickstatements; [[:toollabs:quickstatements/#/batch/13300|batch #13300]] by [[User:Daniel Mietchen|]]",
+    "id": 988663922,
+    "length": {
+        "new": 66117,
+        "old": 65671
+    },
+    "meta": {
+        "domain": "www.wikidata.org",
+        "dt": "2019-05-30T02:25:41Z",
+        "id": "38b11b1d-8282-11e9-9f86-1866da9949ff",
+        "request_id": "XO8-JApAEMUAAFQZbzcAAADQ",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://www.wikidata.org/wiki/Q37177892",
+        "partition": 0,
+        "offset": 1624628531
+    },
+    "minor": false,
+    "namespace": 0,
+    "parsedcomment": "\u200e<span dir=\"auto\"><span class=\"autocomment\">Added reference to claim: </span></span> <a href=\"/wiki/Property:P921\" title=\"Property:P921\">Property:P921</a>: <a href=\"/wiki/Q64148587\" title=\"Q64148587\">Q64148587</a>, #quickstatements; <a href=\"https://tools.wmflabs.org/quickstatements/#.2Fbatch.2F13300\" class=\"extiw\" title=\"toollabs:quickstatements/\">batch #13300</a> by <a href=\"/wiki/User:Daniel_Mietchen\" title=\"User:Daniel Mietchen\">User:Daniel Mietchen</a>",
+    "patrolled": true,
+    "revision": {
+        "new": 951786380,
+        "old": 951786365
+    },
+    "server_name": "www.wikidata.org",
+    "server_script_path": "/w",
+    "server_url": "https://www.wikidata.org",
+    "timestamp": 1559183141,
+    "title": "Q37177892",
+    "type": "edit",
+    "user": "Daniel Mietchen",
+    "wiki": "wikidatawiki"
+},{
+    "bot": false,
+    "comment": "",
+    "id": 1158444433,
+    "length": {
+        "new": 416,
+        "old": 285
+    },
+    "meta": {
+        "domain": "en.wikipedia.org",
+        "dt": "2019-05-30T02:25:42+00:00",
+        "id": "38b124eb-8282-11e9-a545-b083fecf064e",
+        "request_id": "XO8-JQpAMFIAADzVcIUAAAAC",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://en.wikipedia.org/wiki/Talk:Ros%C3%A9_(singer)",
+        "partition": 0,
+        "offset": 1624628532
+    },
+    "minor": false,
+    "namespace": 1,
+    "parsedcomment": "",
+    "revision": {
+        "new": 899441911,
+        "old": 899440482
+    },
+    "server_name": "en.wikipedia.org",
+    "server_script_path": "/w",
+    "server_url": "https://en.wikipedia.org",
+    "timestamp": 1559183142,
+    "title": "Talk:Ros\u00e9 (singer)",
+    "type": "edit",
+    "user": "DanielleTH",
+    "wiki": "enwiki"
+},{
+    "bot": false,
+    "comment": "/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q64148587]], #quickstatements; [[:toollabs:quickstatements/#/batch/13301|batch #13301]] by [[User:Daniel Mietchen|]]",
+    "id": 988663923,
+    "length": {
+        "new": 33646,
+        "old": 33212
+    },
+    "meta": {
+        "domain": "www.wikidata.org",
+        "dt": "2019-05-30T02:25:41Z",
+        "id": "38b11c08-8282-11e9-96dc-1866da98024d",
+        "request_id": "XO8-JApAIDMAAFTsaP0AAAAQ",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://www.wikidata.org/wiki/Q47596809",
+        "partition": 0,
+        "offset": 1624628533
+    },
+    "minor": false,
+    "namespace": 0,
+    "parsedcomment": "\u200e<span dir=\"auto\"><span class=\"autocomment\">Created claim: </span></span> <a href=\"/wiki/Property:P921\" title=\"Property:P921\">Property:P921</a>: <a href=\"/wiki/Q64148587\" title=\"Q64148587\">Q64148587</a>, #quickstatements; <a href=\"https://tools.wmflabs.org/quickstatements/#.2Fbatch.2F13301\" class=\"extiw\" title=\"toollabs:quickstatements/\">batch #13301</a> by <a href=\"/wiki/User:Daniel_Mietchen\" title=\"User:Daniel Mietchen\">User:Daniel Mietchen</a>",
+    "patrolled": true,
+    "revision": {
+        "new": 951786383,
+        "old": 891397421
+    },
+    "server_name": "www.wikidata.org",
+    "server_script_path": "/w",
+    "server_url": "https://www.wikidata.org",
+    "timestamp": 1559183141,
+    "title": "Q47596809",
+    "type": "edit",
+    "user": "Daniel Mietchen",
+    "wiki": "wikidatawiki"
+},{
+    "bot": false,
+    "comment": "/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q660910]], #quickstatements; [[:toollabs:quickstatements/#/batch/13302|batch #13302]] by [[User:Daniel Mietchen|]]",
+    "id": 988663925,
+    "length": {
+        "new": 32234,
+        "old": 31804
+    },
+    "meta": {
+        "domain": "www.wikidata.org",
+        "dt": "2019-05-30T02:25:41Z",
+        "id": "38b1180c-8282-11e9-b521-1418776134a1",
+        "request_id": "XO8-JQpAAEoAAJ9Dq6wAAAAF",
+        "schema_uri": "mediawiki/recentchange/2",
+        "topic": "eqiad.mediawiki.recentchange",
+        "uri": "https://www.wikidata.org/wiki/Q36535173",
+        "partition": 0,
+        "offset": 1624628535
+    },
+    "minor": false,
+    "namespace": 0,
+    "parsedcomment": "\u200e<span dir=\"auto\"><span class=\"autocomment\">Created claim: </span></span> <a href=\"/wiki/Property:P921\" title=\"Property:P921\">Property:P921</a>: <a href=\"/wiki/Q660910\" title=\"Q660910\">Q660910</a>, #quickstatements; <a href=\"https://tools.wmflabs.org/quickstatements/#.2Fbatch.2F13302\" class=\"extiw\" title=\"toollabs:quickstatements/\">batch #13302</a> by <a href=\"/wiki/User:Daniel_Mietchen\" title=\"User:Daniel Mietchen\">User:Daniel Mietchen</a>",
+    "patrolled": true,
+    "revision": {
+        "new": 951786384,
+        "old": 847842883
+    },
+    "server_name": "www.wikidata.org",
+    "server_script_path": "/w",
+    "server_url": "https://www.wikidata.org",
+    "timestamp": 1559183141,
+    "title": "Q36535173",
+    "type": "edit",
+    "user": "Daniel Mietchen",
+    "wiki": "wikidatawiki"
+},

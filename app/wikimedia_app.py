@@ -18,10 +18,13 @@ def finishMessage():
     
 atexit.register(finishMessage)
 
-if __name__ == "__main__":
+def main(parser):
     args = parser.parse_args()
     log.info(args)
     if (args.mode == "file") and (args.output == None):
        parser.error("--output should be specified with file mode")
     consumer = Consumer(mode=args.mode, output=args.output, userFilter=args.filter)
     consumer.streamEvents()
+
+if __name__ == "__main__":
+   main(parser)
