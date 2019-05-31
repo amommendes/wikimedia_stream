@@ -34,8 +34,7 @@ Diagram:
 
 ![Task2](./doc/assets/img/task2.png)
 
-The user select output is desired based on app arguments are passed to application.
-
+The user select the output desired based on app arguments are passed in.
 Application's command line help:
 
 ```shell
