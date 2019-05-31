@@ -34,6 +34,33 @@ Diagram:
 
 ![Task2](./doc/assets/img/task2.png)
 
+The user select output is desired based on app arguments are passed to application.
+
+Application's command line help:
+
+```shell
+/path/to/project/wikimedia_stream/app$ python wikimedia_app.py -h
+usage: Wikimedia Stream Consumer [-h] --mode {console,file,persist}
+                                 [-f FILTER] [-o OUTPUT]
+
+Simple wikimedia stream consumer
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --mode {console,file,persist}
+                        Output mode. Default is console, which prints messages
+                        to sysout. When file is desired it is necessary to
+                        pass output path to file. Persist mode will write
+                        events to Elasticsearch.
+  -f FILTER, --filter FILTER
+                        Filter to be executed on Wikimedia EventStream data
+                        based on regex. The regex pattern will be searched in
+                        all message, including all fields
+  -o OUTPUT, --output OUTPUT
+                        Path to output file
+```
+
+
 ### Task 3: Persist data
 
 - Verify Elasticsearch instance

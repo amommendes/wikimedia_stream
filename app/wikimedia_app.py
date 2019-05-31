@@ -6,15 +6,19 @@ import argparse
 import atexit
 
 parser = argparse.ArgumentParser(prog="Wikimedia Stream Consumer", description="Simple wikimedia stream consumer")
-parser.add_argument("--mode", help="Output mode", default="console", choices=["console", "file", "persist"], required=True)
-parser.add_argument("-f", "--filter",default=None, help="Filter to be executed on Wikimedia EventStream data (Regex)")
+parser.add_argument("--mode", 
+help="""Output mode. Default is console, which prints messages to sysout. When file is desired it is necessary to pass
+output path to file. Persist mode will write events to Elasticsearch.""", default="console", 
+choices=["console", "file", "persist"], required=True)
+parser.add_argument("-f", "--filter",default=None, help="""Filter to be executed on Wikimedia EventStream data based on regex. 
+The regex pattern will be searched in all message, including all fields""")
 parser.add_argument("-o","--output",default=None, help="Path to output file")
 
 def finishMessage():
     """
     Message showed on app finishing
     """
-    log.info ("Application finished")
+    log.info ("Bye, bye")
     
 atexit.register(finishMessage)
 
