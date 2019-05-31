@@ -10,7 +10,7 @@ class Logging(object):
     """
     def __init__(self, mode):
         log_level = getattr(logging, mode)
-        logging.basicConfig(level=log_level, format='%(asctime)s: WIKIMEDIA-StreamApp %(message)s')
+        logging.basicConfig(level=log_level, format='%(asctime)s: Wikimedia-StreamApp %(message)s')
         self.logger = logging.getLogger("")
         logging.getLogger().setLevel(log_level)
 
