@@ -1,7 +1,7 @@
 # Wikimedia Stream App
 
 ## Purpose:
-This repo aims to create a simple data stream pipeline with Python (and other things), including getting data streams from Wikimedia [Recent Changes API](https://wikitech.wikimedia.org/wiki/Event_Platform/EventStreams), processing and persisting them to DataViz.
+This repo aims to create a simple data stream pipeline with Python (and other things), including getting data streams from Wikimedia [Recent Changes API](https://wikitech.wikimedia.org/wiki/Event_Platform/EventStreams), processing it, persisting and presenting in a Dashboard.
 
 To acomplish this, the following tasks were executed:
 
@@ -9,7 +9,7 @@ To acomplish this, the following tasks were executed:
 
 #### Design Considerations
 - The application follows the simplest way to complete tasks, considering the time given to finish.
-- In order to get data from API, the SSEClient were used as described in the Wikimedia Recent Changes documentation suggests. 
+- In order to get data from API, the SSEClient were used as the Wikimedia Recent Changes documentation suggests. 
 - Elasticsearch were used due to the nature of the data. This kind of streams can be considered as events that generates documents (json), which is a natural data to Elasticsearch.  It is scable, very fast with full text search in documents and very good to analytics workloads. MongoDB would be a candidate to store this json documents, but manage mongoDB clusters is not so easy, at least, considering what I've heard :)
 - In the backend a flask server interact with Elasticsearch querying data requested from dashboard.
 - DataViz were produced with standard web tools using material design, which I personally appreciate.
