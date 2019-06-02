@@ -12,7 +12,6 @@ class Configuration:
             with open(filePath) as cfg:
                 config = load(cfg)
             list(map(lambda conf: self.__dict__.update(config.get(conf)), [topic]))
-            log.info("Configuration file successfully loaded: %s" % self.__dict__)
         except IOError as err: 
             log.info('Config file not found: %s' % str(err))
 

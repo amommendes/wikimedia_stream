@@ -1,4 +1,5 @@
 from elasticsearch import Elasticsearch
+from elasticsearch.exceptions import RequestError
 import sys,os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from config.environment import Configuration
@@ -18,4 +19,9 @@ class Connector:
         """
         Write data to Elasticsearch
         """
-        self.es.index(index=self.conf.es_index, body=document)
+        try:
+            self.es.index(index=self.conf.es_index, body=document)
+        except RequestError as elastic_req_error:
+            log.error("Error to parse and send message to Elasticsearch: {}".format(elastic_req_error))
+        except Exception as error:
+            log.error("Generic error while post data: {}".format(error))

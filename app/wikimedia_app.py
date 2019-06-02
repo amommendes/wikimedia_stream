@@ -24,6 +24,7 @@ atexit.register(finishMessage)
 
 def main(parser):
     args = parser.parse_args()
+    log.info ("Starting Wikimedia Streams App")
     log.info(args)
     if (args.mode == "file") and (args.output == None):
        parser.error("--output should be specified with file mode")

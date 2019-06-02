@@ -1,7 +1,7 @@
 WIKIMEDIA:
     version: 1.0
     url: 'https://stream.wikimedia.org/v2/stream/recentchange'
-    es_host: "localhost:9200"
+    es_host: "elasticsearch:9200"
     es_index: "dasa"
     es_shards: 3
     es_replicas: 1
