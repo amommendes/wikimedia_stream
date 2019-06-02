@@ -10,7 +10,7 @@ class Consumer():
     """
         Consumer Class: request and return event messages
     """
-    def __init__(self, filter="non-robot", mode="console", output=None, userFilter=None ):
+    def __init__(self, mode="console", output=None, userFilter=None):
         self.filter = filter
         self.conf = Configuration()
         self.url = self.conf.url + "?query%3Dsince%3D%3D{}".format(str(get_mseconds()))
@@ -33,7 +33,7 @@ class Consumer():
                     if self.setFilter(message):
                         self.outputStream(message, self.connector)
                     else:
-                       pass
+                        pass
     def outputStream(self, message, db_connector=None):
         """
         Write output streams to user option mode
@@ -43,7 +43,7 @@ class Consumer():
                 file.write(json.dumps(message, indent=4))
                 file.write(",")
         elif ( (self.mode == "persist")  and (db_connector != None)):
-            self.connector.writeDocument(json.dumps (message))
+                self.connector.writeDocument(json.dumps(message))
         else: 
             log.info("Message: \n{}".format(json.dumps (message, indent=4) ))
     
@@ -53,7 +53,7 @@ class Consumer():
         """
         if self.userFilter == None:
             return message["bot"] == False
-        elif ( (self.userFilter is not None) and (re.match(str(self.userFilter), str(message))) ):
+        elif ( (self.userFilter is not None) and (re.match(self.userFilter, str(message))) ):
             return True
         else:
             return False
