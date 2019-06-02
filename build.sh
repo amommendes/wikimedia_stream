@@ -30,11 +30,11 @@ docker-compose up -d kibana
 sleep 60
 
 echo $(date) [INFO] Starting Dashboard
-docker-compose up dashboard
+docker-compose up -d dashboard
 
 rc=$?
 
-if [[ "${rc}" -eq "0" ]]; then
+if [ "${rc}" -eq "0" ]; then
     echo $(date) [INFO] Containers started
 else
     echo $(date) [Error] Error while starting containers

@@ -38,12 +38,13 @@ COPY ./requirements.txt /app
 
 WORKDIR /app
 
-RUN touch guinicorn_access.log 
-RUN touch guinicorn_error.log
+RUN touch /app/guinicorn_access.log 
+RUN touch /app/guinicorn_error.log
 
 # Installing Dependencies
 RUN pip3.6 install -r requirements.txt
-RUN pip3.6 install gunicorn
-EXPOSE 5001
+EXPOSE 5000
+
+RUN echo "0.0.0.0   localhost" >> /etc/hosts
 
 CMD ["sh", "/app/start_app.sh" ]

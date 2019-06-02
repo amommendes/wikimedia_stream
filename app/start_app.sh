@@ -1,7 +1,10 @@
 #Start Flask
 echo $(date) [INFO] Starting Flask
+cd /app
+export FLASK_APP=dashboard
+export FLASK_ENV=development
+nohup gunicorn -w 1 -b 0.0.0.0:5000 "dashboard:create_app()" --access-logfile guinicorn_access.log --error-logfile guinicorn_error.log &
 
-nohup gunicorn -w 1 -b 0.0.0.0:5001 dashboard --access-logfile ~/guinicorn_access.log --error-logfile ~/guinicorn_error.log &
 
 rc=$?
 

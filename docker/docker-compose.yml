@@ -36,8 +36,15 @@ services:
   dashboard:
     build:
       context: dashboard/
+    volumes:
+      - ../app/guinicorn_access.log:/app/guinicorn_access.log
+      - ../app/guinicorn_error.log:/app/guinicorn_error.log
+    
     ports:
-      - "5001:5001"
+      - "5000:5000"
+    environment:
+      - LC_ALL=en_US.utf-8
+      - LANG=en_US.utf-8
     networks:
       - elk
     depends_on:

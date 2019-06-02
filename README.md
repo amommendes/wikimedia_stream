@@ -5,35 +5,37 @@ This repo aims to create a simple data stream pipeline with Python (and other th
 
 To acomplish this, the following tasks were executed:
 
+Prerequisites:
+- Python 3.6
+- Docker and Docker-compose
+- Linux
+
 ### Task 1: Planning
 
 #### Design Considerations
-- The application follows the simplest way to complete tasks, considering the time given to finish.
 - In order to get data from API, the SSEClient were used as the Wikimedia Recent Changes documentation suggests. 
 - Elasticsearch were used due to the nature of the data. This kind of streams can be considered as events that generates documents (json), which is a natural data to Elasticsearch.  It is scable, very fast with full text search in documents and very good to analytics workloads. MongoDB would be a candidate to store this json documents, but manage mongoDB clusters is not so easy, at least, considering what I've heard :)
 - In the backend a flask server interact with Elasticsearch querying data requested from dashboard.
-- DataViz were produced with standard web tools using material design, which I personally appreciate.
+- DataViz were produced with standard web tools using material design, which I personally appreciate. Additionally, users can create their own dashboard and ad-hoc queries with Kibana.
 - A docker compose file construct environment with flask and elasticsearch.
 
 #### Strength's and Weaknesses
 - Storage is scalable in Elasticsearch cluster
-- Dashboard has little self-service features, as creation of new charts. ELK stack also were provided to give more self-service capabilities. - Just one python process to deal with all messages could cause event loss. Some fastdata tool could be used instead, as flume, spark streaming, even kafka.
+- Dashboard has little self-service features, as creation of new charts. However, with the ELK stack provided, user has give more self-service capabilities. 
+- Just one python process to deal with all messages could cause event loss. Some fastdata tool could be used instead, as flume, spark streaming, even kafka.
 
 #### Pipeline
 
 ![Pipeline](./doc/assets/img/pipeline.png)
-
 
 ### Task 2: Getting data
 
 Initially data were collect from Wikimedia Recent Changes API through a python application (wikimedia_app).
 This application uses the service Consumer which collect streams of messages from API and then write these data to some user option (console, json file or persist them into Elasticsearch) - Task 3. 
 
-Diagram:
-
 ![Task2](./doc/assets/img/task2.png)
 
-The user select the output desired based on app arguments are passed in.
+The user select the output desired with the arguments of command-line client.
 Application's command line help:
 
 ```shell
@@ -60,6 +62,7 @@ optional arguments:
 
 
 ### Task 3: Persist data
+
 
 - Verify Elasticsearch instance
 
@@ -247,7 +250,7 @@ Prerequisites:
 - Docker
 - Docker-compose
 
-Build and run ELK stack with docker-compose (this can take a long time).
+Build and run ELK stack with docker-compose.
 
 ``` shell
 # from project root directory
@@ -277,21 +280,54 @@ Prerequisites:
 
 - 1 - Dashboard:
 
-  - Start Flask App
+  - Start Flask App individually
+  *Note: if you are running dashboard indepently from docker, you need to change the es_host property inside app/config/app_config.yml to localhost:9200 and start container with only elasticsearch*
+
   ``` shell
+  # Build Elasticsearch
+  docker build --file=docker/elasticsearch/Dockerfile -t elastic .
+  # Run it
+  docker run -d --name elastic -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" elastic
+  # Test
+  curl -X GET localhost:9200/
+  # Start app
   cd app
   export FLASK_APP=dashboard
   export FLASK_ENV=development
   flask run 
   ```
-  *Note: if you are running dashboard indepently from docker, you need to change the es_host property inside app/config/app_config.yml to localhost:9200*
+ - Go to browser: localhost:5000
 
-  - Go to browser: localhost:5001
+    OR
 
+  Run it with ELK and Dashboard application with docker-compose as described in the task 5
+ 
   - 2 - Kibana
+    - With ELK stack up and running, go to browser: localhost:5601. You can run queries and create dashboards.
 
-  With ELK stack up and running, go to browser: localhost:5601.
 
+- *Task 5:*
+
+All artificts are provided in docker directory of the root project.
+
+A warapper file can be found in the root directory (build.sh), which will build docker-compose images and go up them, as described in [Task 3](#task-3-persist-data).
+
+``` shell
+sh build.sh
+wikimedia_stream$ sh build.sh 
+dom jun 2 08:48:04 -03 2019 [INFO] Building Application
+dom jun 2 08:48:04 -03 2019 [INFO] Artifacts copied to build directory
+dom jun 2 08:48:04 -03 2019 [INFO] Building Containers
+Building elasticsearch
+...
+
+```
+
+Application log can be readed from the app directory:
+
+``` shell
+tail -f guinicorn_*
+```
 
 
 
