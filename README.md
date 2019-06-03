@@ -310,7 +310,7 @@ Prerequisites:
 
 All artificts are provided in docker directory of the root project.
 
-A warapper file can be found in the root directory (build.sh), which will build docker-compose images and go up them, as described in [Task 3](#task-3-persist-data).
+A warapper file can be found in the root directory (build.sh), which will build docker-compose images and go up them, as described below. It's import to start services through wrapper because dashboard application can start before elasticsearch and cause connection refused errors.
 
 ``` shell
 sh build.sh

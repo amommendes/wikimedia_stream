@@ -24,7 +24,7 @@ function initRealTimeChart() {
         },
         yaxis: {
             min: 0,
-            max: 50
+            max: 100
         },
         xaxis: {
             mode: "categories",

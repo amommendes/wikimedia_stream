@@ -19,7 +19,7 @@ class Dao():
 
     @property
     def countBySecond(self):
-        query={"query":{"bool":{"filter":{"range":{"meta.dt":{"gte": "now-60s"}}}}},
+        query={"query":{"bool":{"filter":{"range":{"meta.dt":{"gte": "now-120s"}}}}},
                "aggs":{"edits_by_second":{"date_histogram":{
                                 "field" : "meta.dt",
 					           	"interval" : "1s",
