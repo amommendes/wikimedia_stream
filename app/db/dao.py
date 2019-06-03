@@ -22,7 +22,7 @@ class Dao():
         query={"query":{"bool":{"filter":{"range":{"meta.dt":{"gte": "now-60s"}}}}},
                "aggs":{"edits_by_second":{"date_histogram":{
                                 "field" : "meta.dt",
-					           	"interval" : "5s",
+					           	"interval" : "2s",
                 				"format" : "mm:ss"}}}}
 
         return (self.db.es.search(index=self.conf.es_index, body=query)["aggregations"]["edits_by_second"]["buckets"])
