@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo $(date) [INFO] Building Application
-cp -r app docker/dashboard/
+cp -rf app docker/dashboard/
 cp requirements.txt docker/dashboard/
 echo $(date) [INFO] Artifacts copied to build directory
 
