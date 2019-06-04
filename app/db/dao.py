@@ -25,6 +25,6 @@ class Dao():
 					           	"interval" : "2s",
                 				"format" : "mm:ss"}}}}
 
-        return (self.db.es.search(index=self.conf.es_index, body=query)["aggregations"]["edits_by_second"]["buckets"])
+        return (self.db.es.search(index=self.conf.es_index, body=query, request_timeout=15)["aggregations"]["edits_by_second"]["buckets"])
 
         
